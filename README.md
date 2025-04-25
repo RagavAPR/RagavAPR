@@ -9,7 +9,7 @@
 
 ## 📫 How to Reach Me  
 - 📧 Email: aribalaragavan@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/yourprofile)  
+- 💼 LinkedIn: ()  
 - 🏗️ GitHub: (https://github.com/RagavAPR)  
 
 ---
